@@ -1,6 +1,8 @@
 # movies-app-server
 Vapor 4 setup
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ![image of swift paper]
 (https://github.com/rogerbay/image-public/swiftUp.jpg)
 (https://github.com/rogerbay/image-public/blob/master/swiftUp.jpg)
