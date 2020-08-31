@@ -3,7 +3,7 @@ Vapor 4 setup
 
 
 ![image of swift paper](https://github.com/rogerbay/image-public/blob/master/swiftUp.jpg)
-
+![image of vapor](https://github.com/rogerbay/image-public/blob/master/vapordroplet.png)
 
 
 Resources
