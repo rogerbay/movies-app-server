@@ -6,7 +6,7 @@ Vapor 4 setup
 ![image of vapor](https://github.com/rogerbay/image-public/blob/master/vapordroplet.png)
 
 
-Resources
+### Resources
 
 0. https://docs.vapor.codes/4.0/install/macos/
 1. Official Postgres Website: https://www.postgresql.org/
@@ -27,7 +27,7 @@ Terminal and printing the Swift's version.
 
 5. vapor new hello -n
 
-Tip
+##### Tip
 The -n flag gives you a bare bones template by automatically answering no to all questions.
 
 6. cd hello 
@@ -39,20 +39,20 @@ The -n flag gives you a bare bones template by automatically answering no to all
 12. Open web browser localhost:8080/hello
 
 
-PostgresSQL Installation
+## PostgresSQL Installation
 1. https://www.postgresql.org
 2. https://postgresapp.com/downloads.html Postgres.app with PostgreSQL 12
 3. Upon running PostgresSQL app - double click your username and it will launch a terminal.
 4. Type -> CREATE DATABASE YuourDBName;
 
-Fluent ORM Driver -Object Relational Mapper
+## Fluent ORM Driver -Object Relational Mapper
 1. On CREATE DATABASE YOURDBName;
 2. Select Y to yes to use Fluent
 3. Select 1 for Postgres database then Vapor Terminal will show
 4. Type -> cd to your folder directory
 5. Type -> Open .  Or Open Package.swift
 
-Adding Fluent package to Existing Vapor Project
+## Adding Fluent package to Existing Vapor Project
 1. https://docs.vapor.codes/4.0/fluent/overview/
 
 2. Xcode file - Package.swift content
@@ -83,10 +83,10 @@ let package = Package(
 3. Can also update packages from Xcode -> File menu, Swift Package, Update to Latest Package Versions - to look and update for new rc (release version)
 
 
-Postico PostgreSQL Client
+### Postico PostgreSQL Client
 1. https://eggerapps.at/postico/
 
-Postman networking Tools - an API development for HTTP network
+### Postman networking Tools - an API development for HTTP network
 1. Postman.com
 
 
