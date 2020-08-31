@@ -27,7 +27,7 @@ Terminal and printing the Swift's version.
 
 5. vapor new hello -n
 
-##### Tip
+#### Tip
 The -n flag gives you a bare bones template by automatically answering no to all questions.
 
 6. cd hello 
@@ -83,10 +83,10 @@ let package = Package(
 3. Can also update packages from Xcode -> File menu, Swift Package, Update to Latest Package Versions - to look and update for new rc (release version)
 
 
-### Postico PostgreSQL Client
+## Postico PostgreSQL Client
 1. https://eggerapps.at/postico/
 
-### Postman networking Tools - an API development for HTTP network
+## Postman networking Tools - an API development for HTTP network
 1. Postman.com
 
 
