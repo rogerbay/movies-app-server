@@ -92,6 +92,7 @@ Postman networking Tools - an API development for HTTP network
 
 Section 7: Performing CRUD Operations (Create Read Update Delete) on PostgreSQL Database
 
+```swift
 Xcode -> at configure.swift file content
 import Vapor
 import Fluent
@@ -109,6 +110,6 @@ public func configure(_ app: Application) throws {
     // register routes
     try routes(app)
 }
-
+```
 ￼
 
