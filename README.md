@@ -57,6 +57,7 @@ Adding Fluent package to Existing Vapor Project
 
 2. Xcode file - Package.swift content
 
+```swift
 import PackageDescription
 let package = Package(
     name: "hello-postgres-vapor",
@@ -76,6 +77,8 @@ let package = Package(
                 .product(name: "Fluent", package: "fluent"),
                 .product(name: "FluentPostgresDriver", package: "fluent-postgres-driver"),
                 .product(name: "Vapor", package: "vapor")
+                
+```
 
 3. Can also update packages from Xcode -> File menu, Swift Package, Update to Latest Package Versions - to look and update for new rc (release version)
 
