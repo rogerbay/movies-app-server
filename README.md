@@ -1,7 +1,11 @@
 # movies-app-server
 Vapor 4 setup
 
+![image of swift paper]
+(https://github.com/rogerbay/image-public/swiftUp.jpg)
+
 Resources
+
 0. https://docs.vapor.codes/4.0/install/macos/
 1. Official Postgres Website: https://www.postgresql.org/
 2. Postgres.app: https://postgresapp.com/downloads.html
